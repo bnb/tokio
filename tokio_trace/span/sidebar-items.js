@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Id","Identifies a span within the context of a process."],["Span","A handle representing a span, with the capability to enter the span if it exists."]]});

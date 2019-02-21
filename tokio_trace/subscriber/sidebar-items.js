@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["with_default","Sets this dispatch as the default for the duration of a closure."]],"struct":[["Interest","Indicates a `Subscriber`'s interest in a particular callsite."]],"trait":[["Subscriber","Trait representing the functions required to collect trace data."]]});

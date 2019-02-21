@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Level","Describes the level of verbosity of a `Span`."],["Metadata","Metadata describing a [`Span`]."]]});
